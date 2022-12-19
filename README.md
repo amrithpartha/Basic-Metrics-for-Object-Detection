@@ -14,5 +14,5 @@ To check the True Positive with different threshold, just change the value in th
 
 Output Samples:
 
-<img src="https://github.com/SP-Amrith-Shrivas/Basic-Metrics-for-Object-Detection/blob/main/img_2.jpg?raw=true" alt="Alt text" title="Output 2">
-
+<img src = "https://github.com/SP-Amrith-Shrivas/Basic-Metrics-for-Object-Detection/blob/main/img_0.jpg?raw=true" alt="Alt text" title="False Positive">
+<img src="https://github.com/SP-Amrith-Shrivas/Basic-Metrics-for-Object-Detection/blob/main/img_2.jpg?raw=true" alt="Alt text" title="False Negative">
