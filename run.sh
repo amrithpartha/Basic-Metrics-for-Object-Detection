@@ -1,4 +1,4 @@
 #!/bin/bash
 
-# Run this command for prediciton
-python main.py --pred /home/mcw/Documents/AutoBrains_Assignment/Code/Yolo\ Prediction.csv --gt /home/mcw/Documents/AutoBrains_Assignment/Code/Yolo\ Input\ and\ Groundtruth.csv --iou_threshold 0.9
+# Run this command for prediciton and change the threshold according to you need
+python main.py --pred /path/Prediction.csv --gt path/Groundtruth.csv --iou_threshold 0.9
