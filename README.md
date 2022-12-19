@@ -11,3 +11,8 @@ Implementation
 To run this prject, please run the ./run.sh file in your terminal
 
 To check the True Positive with different threshold, just change the value in the arguement parser(--iou_threshold)
+
+Output Samples:
+
+[alt-text] https://github.com/SP-Amrith-Shrivas/Basic-Metrics-for-Object-Detection/blob/main/img_2.jpg?raw=true
+[alt
