@@ -23,4 +23,4 @@ To check the True Positive with different threshold, just change the value in th
 
 ### [Note]: Algorithm need to be changed
 
-Since only few images are used. We imported all the images. But it won't work with lots of images. So find Metrics first and using PIL import the images for visualization.
+Since only few images are used. We imported all the images. But it won't work with lots of images. So find Metrics first and using PIL import (Pillow Library) to load the images for visualization.
